@@ -87,12 +87,6 @@ Run the analysis:
 Open and run the Mall_Customers.ipynb Jupyter Notebook (or your script file) to see the full analysis."""
 
 
-Contact
-Feel free to reach out for any queries or collaboration:
-- LinkedIn: [https://linkedin.com/in/aravind-ili](https://linkedin.com/in/aravind-ili)
-- GitHub: [https://github.com/Aravind6601](https://github.com/Aravind6601)
-- Email: iliaravind2@gmail.com
-
 
 📜 License
 This project is open-source and available for use.
